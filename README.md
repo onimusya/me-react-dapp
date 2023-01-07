@@ -5,8 +5,16 @@
 <br>
 <br>
 
-<div align="Center">
+<div align="center">
     <h1>Just React dApp Demo</h1>
 </div>
 
+<div align="center">
+    <a href="https://stackblitz.com/github/onimusya/me-react-dapp">
+    <img
+        alt="Open in StackBlitz"
+        src="https://developer.stackblitz.com/img/open_in_stackblitz.svg"
+    />
+    </a>
+</div>
 
