@@ -9,12 +9,7 @@
     <h1>Just React dApp Demo</h1>
 </div>
 
-<div align="center">
-    <a href="https://stackblitz.com/github/onimusya/me-react-dapp">
-    <img
-        alt="Open in StackBlitz"
-        src="https://developer.stackblitz.com/img/open_in_stackblitz.svg"
-    />
-    </a>
-</div>
+## Preview
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/onimusya/me-react-dapp?file=src/App.tsx)
+
 
